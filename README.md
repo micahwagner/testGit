@@ -1,2 +1,2 @@
-#MyTestGit
-This is my test git project
+#MyApp
+This is my app
